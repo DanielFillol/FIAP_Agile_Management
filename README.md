@@ -25,4 +25,4 @@
 
 ## 6 - Scrum
 - [PDF](https://github.com/Darklabel91/FIAP_Agile_Management/blob/main/6-%20Scrum%20na%20prática/MBA%20SCJ%20-%20Agile%20Management%203.0%20-%20Cap%206%20-%20SCRUM%20na%20Prática_RevFinal_20210212.pdf)
-- [Ref.](https://github.com/Darklabel91/FIAP_Agile_Management/blob/main/6-%20Scrum%20na%20prática/1.png
+- [Ref.](https://github.com/Darklabel91/FIAP_Agile_Management/blob/main/6-%20Scrum%20na%20prática/1.png)
